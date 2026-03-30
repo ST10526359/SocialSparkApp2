@@ -9,18 +9,9 @@ Input: The user enters a time of day for example morning,afternoon etc
 Output: The app generates a response based on the time of day entered for etc send a good morning text to a family member.
 Error Handling: The application looks for errors and mistakes for etc if the user enters the wrong time of day or leaves the edtTime field empty and clicks on the show suggetion the app generates a message saying " Invalid time of day".
 Utilisation of giftHub: gifthub was used to create a repository file for the app and used to create a read me file and it was used to store and commit and push any changes made to the code. The action tabbar on the gifthub was used to build the code on gifthub.
-Screenshot 2026-03-25 221035.png
-Screenshot 2026-03-25 221048.png
-Screenshot 2026-03-25 221113.png
-Screenshot 2026-03-25 221221.png
-Screenshot 2026-03-25 221308.png
-Screenshot 2026-03-25 222101.png
-Screenshot 2026-03-25 223554.png
-Screenshot 2026-03-25 223627.png
-Screenshot 2026-03-25 223720.png
-Screenshot 2026-03-25 223813 - Copy.png
-Screenshot 2026-03-25 223813.png
 
 
 
-
+![WhatsApp Image 2026-03-30 at 23 33 27 (2)](https://github.com/user-attachments/assets/c30025ff-3d2c-4b58-9611-151e3fd14bd3)
+![WhatsApp Image 2026-03-30 at 23 33 27 (1)](https://github.com/user-attachments/assets/9eb4cca7-097e-4f48-ba7f-8308a2edf436)
+![WhatsApp Image 2026-03-30 at 23 33 27](https://github.com/user-attachments/assets/bc94770e-5f02-4664-b8b2-3b3a78eef1f8)
